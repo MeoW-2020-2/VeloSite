@@ -383,6 +383,8 @@ a[href="index.html"] {
 
 .image {
     margin: 30px;
+}
+.zoom{
     cursor: zoom-in;
 }
 
@@ -406,6 +408,7 @@ a[href="index.html"] {
     right: 0;
     width: auto;
     height: auto;
+    cursor: zoom-out;
 }
 
 .popup_img {
